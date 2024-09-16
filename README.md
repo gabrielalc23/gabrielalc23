@@ -10,7 +10,7 @@
 <a href="https://www.facebook.com/profile.php?id=61556172534484&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61556172534484&mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/gabriellopes_2304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabriellopes_2304" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/cast_sheen_05" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="cast_sheen_05" height="30" width="40" /></a>
-<a href="https://discord.gg/906972770594861097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lopes_2307" height="30" width="40" /></a>
+<a href="https://discord.gg/gH7xyZat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lopes_2307" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Web Development:</h3>
