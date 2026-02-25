@@ -60,10 +60,4 @@
   🌀 Event-Driven • 📦 DDD • ⚡ Microservices
 </p>
 
----
 
-### ✨ Fun Animations
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="200"/>  
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="200"/>
-</p>
