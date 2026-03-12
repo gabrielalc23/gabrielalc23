@@ -8,7 +8,6 @@
   <a href="https://dev.to/gabriel_campos_8614878edf" target="_blank">🐱 Dev.to</a> • 
   <a href="https://www.linkedin.com/in/gabriel-aparecido-lopes-de-campos-1164a2271/" target="_blank">🔗 LinkedIn</a> • 
   <a href="https://stackoverflow.com/users/23320616" target="_blank">💡 Stack Overflow</a> • 
-  <a href="https://instagram.com/gabriellopes_2304" target="_blank">📸 Instagram</a>
 </p>
 
 
